@@ -16,3 +16,5 @@ Virtual Env in Git Bash:
 ### EDA and Feature Engineering
 1. Create Notebook folder and performed EDA and Model Training on it.
 2. Create Mongo Demo file and ingest csv into MongoDB.
+
+## Configure Logger, Exception and Utils file
