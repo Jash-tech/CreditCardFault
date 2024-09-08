@@ -18,3 +18,12 @@ Virtual Env in Git Bash:
 2. Create Mongo Demo file and ingest csv into MongoDB.
 
 ## Configure Logger, Exception and Utils file
+
+## Workflow
+1. constant
+2. config_entity
+3. artifact_entity
+4. conponent
+5. pipeline
+
+## Create data_access and mongo_db_connection
