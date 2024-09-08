@@ -12,3 +12,7 @@ Virtual Env in Git Bash:
 2. conda activate cred
 3. create template file, set setup and requirement.txt file.
 4. pip install -r requirements.txt
+
+### EDA and Feature Engineering
+1. Create Notebook folder and performed EDA and Model Training on it.
+2. Create Mongo Demo file and ingest csv into MongoDB.
